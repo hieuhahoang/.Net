@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1VMpX0MwQ3uyFUgVpATX06cujFJoye3DKhF3ISBRm03j5OkTGWlhw++cHEIW72kOpSg1EyPZ8FyfI1V1kjiPXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\Training\\CI-CD\\Demo\\Jenkins_.Net\\Jenkins_.Net\\Jenkins_.Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
